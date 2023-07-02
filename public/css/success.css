@@ -1,0 +1,38 @@
+body {
+
+    text-align: center;
+    background-color: rgb(32, 164, 216);
+    background-image: url('/images/DarktropicalBg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    font-family:"'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif";
+    color: #ebe9cf;
+}
+
+h3{
+    font-family: system-ui;
+    color:white;
+}
+
+.WelcomeMessage{
+    text-align: center;
+    
+}
+
+.welcome{
+    margin-top: 2%;
+}
+
+.lastp{
+    margin-bottom: 2px;
+}
+
+
+
+/* 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Louisbourg_Lighthouse.jpg/1599px-Louisbourg_Lighthouse.jpg?20110729230009' */
+
+/* tropical mansion url: 'https://uc.orez.io/i/286780f27a544b1b97e7223bb9909635-Large' */

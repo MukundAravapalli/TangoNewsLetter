@@ -1,0 +1,34 @@
+body {
+
+    text-align: center;
+    background-color: rgb(32, 164, 216);
+    background-image: url('https://elements-cover-images-0.imgix.net/54dc7171-c214-4039-851a-27ed96f68132?auto=compress%2Cformat&fit=max&w=900&s=233f5e3ae6ef655875321e7c9b7181aa');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top center;
+
+}
+
+h1,
+p {
+    font-family: system-ui;
+    color: white;
+}
+
+h1 {
+    padding-top: 170px;
+    ;
+}
+
+#btHome {
+    border-radius: 12px;
+    border-color: none;
+    height: 22px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(47, 66, 82);
+}
+
+.lastp {
+    margin-bottom: 2px;
+}
