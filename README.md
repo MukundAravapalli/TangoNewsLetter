@@ -3,10 +3,10 @@
 
 ## About
 The **Tango Newsletter** is a monthly newsletter that gives the subscriber access to curated articles about luxurious pursuits. Once the user enters their name and email, their email is added onto a **MailChimp** server and they just have to sit back and relax as articles of *tropical luxury* reach their mailbox. The newsletter itself is not real, but the MailChimp server is real and running. 
-***
+
 ## Visit the Site
 Here is a live version of the [Tango Newsletter]('https://flannel-lumberjack-60636-6fd0bc4ba174.herokuapp.com/') that was launched through the Heroku service. 
-***
+
 
 ## Sign Up Page
 ![Sign Up Page Screenshot](/public/images/SignUpPageScreenshot.png)
@@ -17,7 +17,7 @@ If everything is successful and your email has been added to the MailChimp serve
 ## Failure Page
 ![Failure Page Screenshot](/public/images/FailurePageScreen.png)
 If things don't turn out well then, this is the page you will see. This usually occurs because there is an error in the code or an error with the API Key. Clicking on the **Try Again** button will lead you back to the Sign Up page.
-***
+
 
 ## Examples
 Let us look at some examples of successful Sign Ups. 
