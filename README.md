@@ -5,7 +5,7 @@
 The **Tango Newsletter** is a monthly newsletter that gives the subscriber access to curated articles about luxurious pursuits. Once the user enters their name and email, their email is added onto a **MailChimp** server and they just have to sit back and relax as articles of *tropical luxury* reach their mailbox. The newsletter itself is not real, but the MailChimp server is real and running. 
 
 ## Visit the Site
-Here is a live version of the [Tango Newsletter]('https://flannel-lumberjack-60636-6fd0bc4ba174.herokuapp.com/') that was launched through the Heroku service. 
+Here is a live version of the **[Tango Newsletter]('https://flannel-lumberjack-60636-6fd0bc4ba174.herokuapp.com/')** that was launched through the Heroku service. 
 
 
 ## Sign Up Page
@@ -28,10 +28,9 @@ Let us look at some examples of successful Sign Ups.
 
 If we look at the bottom of the MailChimp Dashboard, we see that those 3 people have been successfully signed up for the Newsletter.
 
-***
 
 ## Origins 
-I learnt how to build and launch a NodeJS Web App onto Heroku through Dr. Angela Yu's [Web Developement Bootcamp]('https://www.udemy.com/course/the-complete-web-development-bootcamp/' "Web Developement Bootcamp") on Udemy. I learnt the concepts from her and modified the Web App to my liking. 
+I learnt how to build and launch a NodeJS Web App onto Heroku through Dr. Angela Yu's **[Web Developement Bootcamp]('https://www.udemy.com/course/the-complete-web-development-bootcamp/' "Web Developement Bootcamp")** on Udemy. I learnt the concepts from her and modified the Web App to my liking. 
 ***
 
 ## Want to Create Your Own Newsletter?
