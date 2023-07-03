@@ -5,7 +5,7 @@
 The **Tango Newsletter** is a monthly newsletter that gives the subscriber access to curated articles about luxurious pursuits. Once the user enters their name and email, their email is added onto a **MailChimp** server and they just have to sit back and relax as articles of *tropical luxury* reach their mailbox. The newsletter itself is not real, but the MailChimp server is real and running. 
 
 ## Visit the Site
-Here is a live version of the **[Tango Newsletter](https://flannel-lumberjack-60636-6fd0bc4ba174.herokuapp.com/)** that was launched through the Heroku service. 
+Here is a live version of the **[Tango Newsletter](https://flannel-lumberjack-60636-6fd0bc4ba174.herokuapp.com/ "Tango Sign Up")** that was launched through the Heroku service. 
 
 
 ## Sign Up Page
@@ -26,7 +26,7 @@ Let us look at some examples of successful Sign Ups.
 ![Failure Page Screenshot](/public/images/SteveSignUp.png)
 ![Failure Page Screenshot](/public/images/MailChimpMailingList.png)
 
-If we look at the bottom of the MailChimp Dashboard, we see that those 3 people have been successfully signed up for the Newsletter.
+If we look at the bottom of the MailChimp Dashboard, we see that those 3 people have successfully subscribed for the Newsletter.
 
 
 ## Origins 
@@ -54,10 +54,10 @@ const jsonData = JSON.stringify(data);
         auth:"Crabb: enter your API key here"
         
 ```
-Where it has the big `X`, you will need to replace the `X` with the region number, this is at the end of your API Key, and it will say us-- where the -- part is the number. 
+On the second line, you see the code `const url="https://usX.api.mailchimp...` here it has a big `X` in `https://usX.api`, you will need to replace the `X` with the region number, this is at the end of your API Key, and it will say us-- where the -- part is the number. 
 
 At the end of the URL link, you see the phrase `enter your auidence ID here`. You will find this ID in the Settings under the Audience Tab in your MailChimp Profile once you have set that up. 
 
-Finally, you will need to edit the phrase `enter your API key here` in the last line by replacing the phrase with your MailChimp API Key. 
+Finally, you will need to edit the phrase `enter your API key here` in the last line of code by replacing the phrase with your MailChimp API Key. 
 
 **NEVER post any code that contains your API Key, your Key will get revoked if it ends up publicly posted.**
