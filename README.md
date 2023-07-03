@@ -5,7 +5,7 @@
 The **Tango Newsletter** is a monthly newsletter that gives the subscriber access to curated articles about luxurious pursuits. Once the user enters their name and email, their email is added onto a **MailChimp** server and they just have to sit back and relax as articles of *tropical luxury* reach their mailbox. The newsletter itself is not real, but the MailChimp server is real and running. 
 
 ## Visit the Site
-Here is a live version of the **[Tango Newsletter]('https://flannel-lumberjack-60636-6fd0bc4ba174.herokuapp.com/')** that was launched through the Heroku service. 
+Here is a live version of the **[Tango Newsletter](https://flannel-lumberjack-60636-6fd0bc4ba174.herokuapp.com/)** that was launched through the Heroku service. 
 
 
 ## Sign Up Page
