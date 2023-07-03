@@ -30,7 +30,7 @@ If we look at the bottom of the MailChimp Dashboard, we see that those 3 people 
 
 
 ## Origins 
-I learnt how to build and launch a NodeJS Web App onto Heroku through Dr. Angela Yu's **[Web Developement Bootcamp]('https://www.udemy.com/course/the-complete-web-development-bootcamp/' "Web Developement Bootcamp")** on Udemy. I learnt the concepts from her and modified the Web App to my liking. 
+I learnt how to build and launch a NodeJS Web App onto Heroku through Dr. Angela Yu's **[Web Developement Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/ "Web Developement Bootcamp")** on Udemy. I learnt the concepts from her and modified the Web App to my liking. 
 ***
 
 ## Want to Create Your Own Newsletter?
